@@ -1246,8 +1246,6 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   
    
 - ### Web Servers
-  </details>
-
   <details>
   <summary id="nginx">Nginx</summary> <br>
   
@@ -1275,24 +1273,48 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   </details>
 
   
-   
-- ### API
-
-
   <details>
-  <summary id="design">Design</summary> <br>
+  <summary id="nginx">Nginx</summary> <br>
   
-    - **Guidelines and Best Practices**
-      - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
-      - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+    - **Documentation**
+      - [NGINX Documentation](http://nginx.org/en/docs/)
+
+    - **Book**
+      - [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook/)
+
+    - **Cheat Sheet**
+      - [NGINX CHEAT SHEET](https://kiza.dev/notes/nginx-cheat-sheet)
   </details>
 
   <details>
-  <summary id="security">Security</summary> <br>
-  
-    - **Checklist**
-      - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
+  <summary id="apache">Apache</summary> <br>
+    
+    - **Documentation**
+      - [Apache Documentation](https://httpd.apache.org/docs/)
+
+    - **Book**
+      - [Apache Cookbook: Solutions and Examples for Apache Administrators](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945)
+
+    - **Cheat Sheet**
+      - [Apache Cheat Sheet](http://www.cheat-sheets.org/saved-copy/apache-refcard-a4.pdf)
   </details>
+
+
+
+
+
+    <details>
+    <summary id="api">API</summary> <br>
+
+    - #### Design
+        - **Guidelines and Best Practices**
+            - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+            - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+
+    - #### Security
+        - **Checklist**
+            - [API Security Checklist](https://github.com/bobycloud/API-Security-Checklist/blob/master/README-en.md)
+    </details>
 
   
    
